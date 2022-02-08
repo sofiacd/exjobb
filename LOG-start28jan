@@ -1,0 +1,43 @@
+
+______________________________________________________
+Some questions:
+
+the social protocell vs instituions. difference ?
+
+är institutionerna bara momentana strukturer i samhället dvs att sammanställningarna försvinner efter en skörd och så skapas nya till nästa skörd? Eller bevaras de över flera skördar tills det att de upphör pga dödsfall eller fission? 
+[SVARAT: momentana strukturer som uppkommer spontant vid varje skörd, men spelar antagligen ingen större roll tror claes. om man behöver effektivisera kan man nog strukturera koden så att institutionerna bevaras tills det att de behöver upphöra pga någon förändring. Detta kanske kan undersökas senare]
+---------------------------------------------------
+
+
+TODO
+
+finish planeringsrapport (X) DONE!!
+
+byt from jupyter till pytonfiler (X)
+
+flytta social learning till agentnivå och flytta ut från harvestfunction (X) 
+
+set the temporal resolution parameter and all other global parameters in order. ()
+	skapa ett skellett i en mainfil där alla stoheter bestäms, och skickas in till global classen. (X)
+	
+	
+fixa effektiv allokering.en instansierad array av objekt som kan återanvändas ()
+	
+Läs igenom appendix på senaste artikeln för att få ide om rimliga storheter på parametrar(x..)
+
+FIXA GIT_FOLDER ()
+
+LÄSA ARTIKLAR !!!!!!!!!!
+____________________________________-
+
+LÄS OM!!!
+matrilokala, patriloka samhällem.
+
+pastoralism
+
+
+
+____________________________________________
+
+
+
